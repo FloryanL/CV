@@ -1,2 +1,2 @@
 # CV
-##Dévelopeur Web/mobile junior
+##Développeur Web/mobile junior
