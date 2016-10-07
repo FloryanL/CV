@@ -56,7 +56,7 @@
     .competence {
         width: 32%;
         height: auto;
-        margin: -45% 0% auto 65%;
+        margin: -35% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;     
@@ -70,7 +70,7 @@
     .langages {
         width: 32%;
         height: auto;
-        margin: -65% 0% auto 65%; 
+        margin: -70% 0% auto 65%; 
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
@@ -81,7 +81,7 @@
     .formation {
         width: 32%;
         height: auto;
-        margin: -11% 0% auto 65%;
+        margin: -22% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
