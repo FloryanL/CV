@@ -56,9 +56,18 @@
                 <div class="langages">
                     <xsl:value-of select="cv/langages"/>
                 </div>
+
                 <div class="competence">
-                    <xsl:value-of select="cv/competence"/>
+                    <div class="titrecomp">
+                        <xsl:value-of select="cv/competence/titrecomp"/>
+                    </div>
+                        <xsl:for-each select="cv/competence/boucle">
+                            <div class="comp">
+                                <xsl:value-of select="comp"/>
+                            </div>
+                        </xsl:for-each>
                 </div>
+
                 <div class="hobbies">
                     <xsl:value-of select="cv/hobbies"/>
                 </div>

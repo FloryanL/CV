@@ -161,6 +161,13 @@
     width: 35%;
     margin-right: 2%;
 }
+.titrecomp {
+    font-size: 25px;
+}
+.comp {
+    padding: 1vh 0;
+    color: #BFBFBF;
+}
 .hobbies {
     background-color: #333333;
     -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -272,6 +279,16 @@
         font-size: 16px;
         font-family: "Courier New";
         padding-top: 3vh;
+        padding-bottom: inherit;
+    }
+    .titrecomp {
+        font-size: 20px;
+        padding-bottom: 1vh;
+        text-decoration-line: underline;
+    }
+    .comp {
+        padding: 1vh 0;
+        color: #BFBFBF;
     }
     .hobbies {
         margin-top: -65px;

@@ -5,16 +5,22 @@
         /*width: auto!important;*/
         /*margin: auto!important;*/
         font-family: serif;
-        font-size: 12pt;
+        font-size: 10pt;
         /*background-color: #fff!important;
         color: #000!important;*/
     }
 
+/********** PRESENTATION **********/
+
     .presentation {
-        width: 20%;
+        width: 30%;
         height: 7%;
-        font-size: 10pt;
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0.8vh;
     }
+
+/********** TITRE **********/
 
     .titre {
         width: 55%;
@@ -22,37 +28,75 @@
         margin-left: 40%; 
         margin-top: -10%;
         font-size: 20pt;
+        color: #046380;
     }
+
+/********** EXPERIENCES **********/
 
     .experience {
-        width: 60%;
+        width: 55%;
         height: auto;
-        margin: 15% 0% auto;
+        margin: 12% 0% auto;
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0 0.8vh 0.5vh;
     }
+    .annee {
+        margin-top: 3%;
+    }
+    .fonction {
+        margin-top: 1%;
+    }
+    .lieu {
+        color: darkslategray;
+    }
+
+/********** COMPETENCES **********/
 
     .competence {
-        width: 40%;
+        width: 32%;
         height: auto;
-        margin: -45% 0% auto 65%;        
+        margin: -45% 0% auto 65%;
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0.8vh;     
     }
+    .comp {
+        color: red;
+    }
+
+/********** LANGAGES **********/
 
     .langages {
-        width: 40%;
+        width: 32%;
         height: auto;
         margin: -65% 0% auto 65%; 
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0.8vh;
     }
+
+/********** FORMATION **********/
 
     .formation {
-        width: 40%;
+        width: 32%;
         height: auto;
-        margin: -11% 0% auto 65%; 
+        margin: -11% 0% auto 65%;
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0.8vh;
     }
 
+/********** HOBBIES **********/
+
     .hobbies {
-        width: 100%;
+        width: 98%;
         height: auto;
-        margin: 95% 0% auto;
+        margin: 92% 0% auto;
         text-align: center;
+        border: 2px solid lightgrey;
+        border-radius: 1%;
+        padding: 0.8vh;
     }
 
 

@@ -75,22 +75,28 @@
     
     <langages>HTML / CSS / JS / PhP</langages>
     
-    <competence> Compétences
-    
-        ∗ Capacité d'apprentissage
-        
-        ∗ Intelligence émotionnelle
-        
-        ∗ Intégrité à toute épreuve
-        
-        ∗ Capacité d'adaptation
-        
-        ∗ Esprit d'équipe
-        
-        ∗ Polyvalent
-        
-        ∗ Maturité
-
+    <competence> <titrecomp>Compétences</titrecomp>
+        <boucle>
+        <comp>∗ Capacité d'apprentissage</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Intelligence émotionnelle</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Intégrité à toute épreuve</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Capacité d'adaptation</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Esprit d'équipe</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Polyvalent</comp>
+        </boucle>
+        <boucle>
+        <comp>∗ Maturité</comp>
+        </boucle>
     </competence>
     
     <hobbies>Astronomie / Gamer / Cinéma et Lecture (BD)</hobbies>

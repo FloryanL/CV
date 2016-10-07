@@ -3,7 +3,7 @@
     <!ELEMENT titre (#PCDATA)>
     <!ELEMENT experience (annee, fonction, lieu)>
     <!ELEMENT formation (annee, intitule, lieu)>
-    <!ELEMENT competence (#PCDATA)>
+    <!ELEMENT competence (titrecomp, comp)>
     <!ELEMENT hobbies (#PCDATA)>
     <!ELEMENT annee ANY>
     <!ELEMENT nom (#PCDATA)>
@@ -15,3 +15,5 @@
     <!ELEMENT fonction (#PCDATA)>
     <!ELEMENT lieu (#PCDATA)>
     <!ELEMENT intitule (#PCDATA)>
+    <!ELEMENT titrecomp (#PCDATA)>
+    <!ELEMENT comp (#PCDATA)>
