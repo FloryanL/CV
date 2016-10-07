@@ -142,6 +142,22 @@
     font-size: 25px;
     margin-top: 2%;
 }
+.langages {
+    order: 5;
+    background-color: #333333;
+    -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
+    -webkit-box-shadow: 5px 5px 25px 5px #9b9b9b;
+    -o-box-shadow: 5px 5px 25px 5px #9b9b9b;
+    box-shadow: 5px 5px 25px 5px #9b9b9b;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    border: 8px groove darkorange;
+    color: #02CEB3;
+    margin-top: -390px;
+    margin-left: 53%;
+    padding: 2vh 24vh;
+}
 .competence {
     background-color: #333333;
     -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -275,6 +291,14 @@
         margin-left: 53%;
         padding: 2vh 24vh;
     }
+    .titrelang {
+        font-size: 20px;
+        margin: 0vh 0vh 0vh -20vh;
+    }
+    .lang {
+        color: #BFBFBF;
+        margin: -3vh 2vh 0vh 0vh;
+    }
     .competence {
         font-size: 16px;
         font-family: "Courier New";
@@ -294,6 +318,6 @@
         margin-top: -65px;
         margin-left: 54%;
         font-size: 16px;
-        padding: 2vh 4vh;
+        padding: 2vh 5vh;
     }
 }

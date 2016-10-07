@@ -73,7 +73,7 @@
         </boucle>
     </formation>
     
-    <langages>HTML / CSS / JS / PhP</langages>
+    <langages> <titrelang>Langages</titrelang> <lang>HTML / CSS / JS / PhP </lang> </langages>
     
     <competence> <titrecomp>Compétences</titrecomp>
         <boucle>

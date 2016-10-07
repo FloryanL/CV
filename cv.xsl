@@ -54,7 +54,12 @@
                 </div>
                 
                 <div class="langages">
-                    <xsl:value-of select="cv/langages"/>
+                    <div class="titrelang">
+                        <xsl:value-of select="cv/langages/titrelang"/>
+                    </div>
+                    <div class="lang">
+                        <xsl:value-of select="cv/langages/lang"/>
+                    </div>
                 </div>
 
                 <div class="competence">

@@ -1,9 +1,10 @@
-    <!ELEMENT cv (presentation, titre, experience+, formation+, competences+, hobbies+)>
+    <!ELEMENT cv (presentation, titre, experience+, formation+, competences+, langages+, hobbies+)>
     <!ELEMENT presentation (nom, prenom, adresse, telephone, mail, age?)>
     <!ELEMENT titre (#PCDATA)>
     <!ELEMENT experience (annee, fonction, lieu)>
     <!ELEMENT formation (annee, intitule, lieu)>
     <!ELEMENT competence (titrecomp, comp)>
+    <!ELEMENT langages (titrelang, lang)>
     <!ELEMENT hobbies (#PCDATA)>
     <!ELEMENT annee ANY>
     <!ELEMENT nom (#PCDATA)>
