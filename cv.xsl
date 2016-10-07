@@ -10,8 +10,9 @@
     <xsl:template match="/">
         <html>
         <head>
-		    <link type="text/css" rel="stylesheet" href="style3.css"/>   
             <title>CV Lollivier F.</title>
+		    <link type="text/css" rel="stylesheet" media="screen" href="style3.css"/>   
+            <link type="text/css" rel="stylesheet" media="print" href="print.css"/>
         </head>
         <body>
             <div class="cv">

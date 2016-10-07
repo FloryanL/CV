@@ -1,0 +1,69 @@
+/*media print*/
+
+@media print {
+    body {
+        /*width: auto!important;*/
+        /*margin: auto!important;*/
+        font-family: serif;
+        font-size: 12pt;
+        /*background-color: #fff!important;
+        color: #000!important;*/
+    }
+
+    .presentation {
+        width: 20%;
+        height: 7%;
+        font-size: 10pt;
+    }
+
+    .titre {
+        width: 55%;
+        height: 5%;
+        margin-left: 40%; 
+        margin-top: -10%;
+        font-size: 20pt;
+    }
+
+    .experience {
+        width: 60%;
+        height: auto;
+        margin: 15% 0% auto;
+    }
+
+    .competence {
+        width: 40%;
+        height: auto;
+        margin: -45% 0% auto 65%;        
+    }
+
+    .langages {
+        width: 40%;
+        height: auto;
+        margin: -65% 0% auto 65%; 
+    }
+
+    .formation {
+        width: 40%;
+        height: auto;
+        margin: -11% 0% auto 65%; 
+    }
+
+    .hobbies {
+        width: 100%;
+        height: auto;
+        margin: 95% 0% auto;
+        text-align: center;
+    }
+
+
+    /* .print {
+        display: block;
+        affichage des éléments de classe print 
+    } */
+
+    }
+    #menu,
+    #footer,
+    aside {
+        display: none;
+}
