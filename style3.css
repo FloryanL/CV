@@ -275,19 +275,27 @@
         margin-top: -297px;
         margin-left: 53%;
         padding-top: 2%;
-        padding-bottom: 3vh;
+        padding-bottom: 2vh;
         font-size: 16px;
+    }
+    .formation .annee {
+        margin-top: 3%;
+        margin-bottom: 1%;
+        padding-bottom: 1vh;
     }
     .formation .intitule {
         font-size: 16px;
         font-weight: bold;
         color: #BFBFBF;
+        margin-top: -1%;
     }
     .formation .lieu {
         font-size: 15px;
+        margin-top: -5%;
     }
     .langages {
         order: 5;
+        width: 17vh;
         background-color: #333333;
         -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
         -webkit-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -300,17 +308,17 @@
         color: #02CEB3;
         margin-top: -400px;
         margin-left: 53%;
-        padding: 2vh 24vh;
+        padding: 2vh 30vh;
     }
     .titrelang {
         font-size: 20px;
-        margin: 0vh 0vh 0vh -20vh;
+        margin: 0vh 0vh 0.5vh -26vh;
         font-family: "Courier New";
         text-decoration-line: underline;
     }
     .lang {
         color: #BFBFBF;
-        margin: -3vh 2vh 0vh 0vh;
+        margin: -3vh 0 0vh -12vh;
     }
     .competence {
         font-size: 16px;
@@ -327,9 +335,9 @@
         color: #BFBFBF;
     }
     .hobbies {
-        margin-top: -65px;
-        margin-left: 54%;
-        font-size: 16px;
-        padding: 2vh 5vh;
+    margin-top: -9vh;
+    margin-left: 106vh;
+    font-size: 16px;
+    padding: 2vh 4vh;
     }
 }
