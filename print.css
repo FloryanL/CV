@@ -8,7 +8,7 @@
 @media print {
     body {
         /*width: auto!important;*/
-        margin: 7% 0;
+        margin: 8% 0;
         font-family: serif;
         font-size: 10pt;
         /*background-color: #fff!important;
@@ -30,9 +30,9 @@
     .titre {
         width: 55%;
         height: 5%;
-        margin-left: 40%; 
+        margin-left: 45%; 
         margin-top: -10%;
-        font-size: 20pt;
+        font-size: 22pt;
         color: #046380;
     }
 
@@ -41,78 +41,98 @@
     .experience {
         width: 55%;
         height: auto;
-        margin: 12% 0% auto;
+        margin: 15% 0% auto;
         border: 2px solid lightgrey;
         border-radius: 1%;
-        padding: 0 0.8vh 0.5vh;
+        padding: 0 0.8vh 1vh;
     }
     .annee {
-        margin-top: 3%;
+        margin-top: 5%;
     }
     .fonction {
-        margin-top: 1%;
+        margin-top: 2%;
     }
     .lieu {
         color: darkslategray;
+        margin-top: 1.5%;
     }
 
 /********** COMPETENCES **********/
 
     .competence {
-        width: 32%;
+        width: 31.5%;
         height: auto;
-        margin: -18% 0% auto 65%;
+        margin: -55.5% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;     
     }
+    .titrecomp {
+        padding: 1vh 0;
+    }
     .comp {
         color: darkslategray;
+        padding: 0.5vh 0;
     }
 
 /********** LANGAGES **********/
 
     .langages {
-        width: 32%;
+        width: 31.5%;
         height: auto;
-        margin: -70% 0% auto 65%; 
+        margin: -42% 0% auto 65%; 
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
+    }
+    .titrelang {
+        padding: 0.5vh 0 ;
+    }
+    .lang {
+        padding: 0.5vh 0;
     }
 
 /********** FORMATION **********/
 
     .formation {
-        width: 32%;
+        width: 31.5%;
         height: auto;
-        margin: -22% 0% auto 65%;
+        margin: -27.5% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
+    }
+    .formation .annee {
+        padding: 0;
+    }
+    .formation .intitule {
+        padding: 0.5vh 0;
+    }
+    .formation .lieu {
+        padding: 0.5vh 0;
     }
 
 /********** HOBBIES **********/
 
     .hobbies {
-        width: 98%;
+        width: 96.5%;
         height: auto;
-        margin: 88% 0% auto;
+        margin: 58% 0% auto;
         text-align: center;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
     }
 
-
-    /* .print {
+    /* 
+    .print {
         display: block;
         affichage des éléments de classe print 
-    } */
-
     }
     #menu,
     #footer,
     aside {
         display: none;
+    } */
+
 }
