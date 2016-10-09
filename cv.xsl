@@ -17,7 +17,21 @@
         <body>
             <div class="cv">
                 <div class="presentation">
-                    <xsl:value-of select="cv/presentation"/>
+                    <div class="name">
+                        <xsl:value-of select="cv/presentation/nom"/>
+                    </div>
+                    <div class="adress">
+                        <xsl:value-of select="cv/presentation/adresse"/>
+                    </div>
+                    <div class="tel">
+                        <xsl:value-of select="cv/presentation/telephone"/>
+                    </div>
+                    <div class="email">
+                        <xsl:value-of select="cv/presentation/mail"/>
+                    </div>
+                    <div class="age">
+                        <xsl:value-of select="cv/presentation/age"/>
+                    </div>
                 </div>
                 <div class="titre">
                     <xsl:value-of select="cv/titre"/>

@@ -8,7 +8,7 @@
 @media print {
     body {
         /*width: auto!important;*/
-        /*margin: auto!important;*/
+        margin: 7% 0;
         font-family: serif;
         font-size: 10pt;
         /*background-color: #fff!important;
@@ -18,11 +18,11 @@
 /********** PRESENTATION **********/
 
     .presentation {
-        width: 30%;
+        width: 25%;
         height: 7%;
         border: 2px solid lightgrey;
         border-radius: 1%;
-        padding: 0.8vh;
+        padding: 0.8vh 1vh;
     }
 
 /********** TITRE **********/
@@ -61,7 +61,7 @@
     .competence {
         width: 32%;
         height: auto;
-        margin: -35% 0% auto 65%;
+        margin: -18% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;     

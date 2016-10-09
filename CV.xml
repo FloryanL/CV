@@ -6,7 +6,7 @@
 <cv xmlns:html="http://www.w3.org/1999/xhtml">
    
     <presentation>
-        <nom>LOLLIVIER</nom> <prenom>Florian</prenom>
+        <nom>LOLLIVIER Florian</nom>
         <adresse>41 Square Charles Dullin</adresse>
         <telephone>06.78.48.17.77</telephone>
         <mail><html:a href="mailto:floryan.lollivier@gmail.com?">floryan.lollivier@gmail.com</html:a></mail>
