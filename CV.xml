@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- <?xml-stylesheet href="style.css" type="text/css" ?> -->
 <?xml-stylesheet type="text/xsl" href="cv.xsl"?> 
-<!DOCTYPE cv SYSTEM "cv.dtd"> 
+<!-- <?xml-stylesheet href="style.css" type="text/css" ?> -->
+<!DOCTYPE cv SYSTEM "CV.dtd"> 
 
 <cv xmlns:html="http://www.w3.org/1999/xhtml">
    

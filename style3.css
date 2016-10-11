@@ -36,7 +36,6 @@
     font-style: italic;
     font-size: 27px;
     font-family: 'Asap', sans-serif;
-    white-space: pre-line;
     order: 1;
     height: 30%;
     width: 25%;
@@ -245,7 +244,7 @@
         line-height: 1.7;
         text-align: center;
         font-weight: bold;
-        font-size: 17px;
+        font-size: 16px;
         margin: 6vh 0 5vh;
         padding: 3vh 0;
         text-shadow: 1px 1px darkorange;
