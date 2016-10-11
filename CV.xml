@@ -12,7 +12,11 @@
         <telephone>06.78.48.17.77</telephone>
         <mail><html:a href="mailto:floryan.lollivier@gmail.com?">floryan.lollivier@gmail.com</html:a></mail>
         <age>27 ans</age>
-        <liens>LinkedIn / Twitter / Github</liens>
+        <liens>
+        <lien1>LinkedIn </lien1>
+        <lien2> Twitter </lien2>
+        <lien3> Github</lien3>
+        </liens>
     </presentation>
     
     <titre>Développeur Web Junior</titre>
