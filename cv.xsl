@@ -37,6 +37,11 @@
                     <div class="age">
                         <xsl:value-of select="cv/presentation/age"/>
                     </div>
+                    <!--<div class="liensociale">
+                        <a href="">
+                          <xsl:value-of select="cv/presentation/liens"/>
+                        </a>
+                    </div>-->
                 </div>
                 <div class="titre">
                     <xsl:value-of select="cv/titre"/>
@@ -77,7 +82,7 @@
                         <xsl:value-of select="cv/langages/titrelang"/>
                     </div>
                     <div class="lang">
-                        <xsl:value-of select="cv/langages/lang"/>
+                        <xsl:value-of select="cv/langages/langage"/>
                     </div>
                 </div>
 
@@ -91,6 +96,15 @@
                             </div>
                         </xsl:for-each>
                 </div>
+
+                <!--<div class="langues">
+                    <div class="titrelangue">
+                        <xsl:value-of select="cv/langues/titrelang"/>
+                    </div>
+                    <div class="langue">
+                        <xsl:value-of select="cv/langues/lang"/>
+                    </div>
+                </div>-->
 
                 <div class="hobbies">
                     <xsl:value-of select="cv/hobbies"/>

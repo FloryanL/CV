@@ -12,40 +12,23 @@
         <telephone>06.78.48.17.77</telephone>
         <mail><html:a href="mailto:floryan.lollivier@gmail.com?">floryan.lollivier@gmail.com</html:a></mail>
         <age>27 ans</age>
+        <liens>LinkedIn / Twitter / Github</liens>
     </presentation>
     
     <titre>Développeur Web Junior</titre>
     
-    <experience> Expériences   
-        <boucle>  
-        <annee>2007 - 2009</annee>
-        <fonction>Agent de fabrication (1 an en intérim) – Effectuer un montage de produits agricoles sur ligne
-        </fonction>
-        <lieu>Entreprise Mailleux Acigné</lieu>
-        </boucle>
+    <experience> Expériences  
         <boucle>
-        <annee>03/2010 - 04/2010</annee>
-        <fonction>Employé libre service (Stage 2 semaines) – Approvisionner les rayons et renseigner les clients.
+        <annee>05/2016 – 01/2017</annee>
+        <fonction>Développeur web et mobile junior (formation 8 mois) Réalisation technique de sites web
         </fonction>
-        <lieu>Supermarché G20 – Rennes</lieu>
-        </boucle>
+        <lieu>FACE Simplon Rennes</lieu>
+        </boucle> 
         <boucle>
-        <annee>04/2010</annee>
-        <fonction>Technicien de maintenance en Informatique (Stage 2 semaines) – Interventions sur les ordinateurs (hardwares/softwares)
+        <annee>08/2014 – 09/2014</annee>
+        <fonction>Technicien de maintenance en Informatique (Stage 2 semaines) Interventions sur les ordinateurs (hardwares/softwares)
         </fonction>
-        <lieu>Entreprise SOLLEIL Rennes</lieu>
-        </boucle>
-        <boucle>
-        <annee>05/2010</annee>
-        <fonction>Infographiste (Stage 2 semaines) – Créer un site internet. Freelance Wootzee Rennes)
-        </fonction>
-        <lieu>Rennes</lieu>
-        </boucle>
-        <boucle>
-        <annee>05/2010 – 06/2010</annee>
-        <fonction>Infographiste (Stage 2 semaines) – Créer un site internet
-        </fonction>
-        <lieu>Entreprise IFSI – CHU Pontchaillou Rennes</lieu>
+        <lieu>Entreprise AROBACE Rennes</lieu>
         </boucle>
         <boucle>
         <annee>06/2011 - 11/2012</annee>
@@ -54,10 +37,34 @@
         <lieu>Entreprise Mailleux Acigné</lieu>
         </boucle>
         <boucle>
-        <annee>08/2014 – 09/2014</annee>
-        <fonction>Technicien de maintenance en Informatique (Stage 2 semaines) Interventions sur les ordinateurs (hardwares/softwares)
+        <annee>05/2010 – 06/2010</annee>
+        <fonction>Infographiste (Stage 2 semaines) – Créer un site internet
         </fonction>
-        <lieu>Entreprise AROBACE Rennes</lieu>
+        <lieu>Entreprise IFSI – CHU Pontchaillou Rennes</lieu>
+        </boucle>
+        <boucle>
+        <annee>05/2010</annee>
+        <fonction>Infographiste (Stage 2 semaines) – Créer un site internet. Freelance Wootzee Rennes)
+        </fonction>
+        <lieu>Rennes</lieu>
+        </boucle>
+        <boucle>
+        <annee>04/2010</annee>
+        <fonction>Technicien de maintenance en Informatique (Stage 2 semaines) – Interventions sur les ordinateurs (hardwares/softwares)
+        </fonction>
+        <lieu>Entreprise SOLLEIL Rennes</lieu>
+        </boucle>
+        <boucle>
+        <annee>03/2010 - 04/2010</annee>
+        <fonction>Employé libre service (Stage 2 semaines) – Approvisionner les rayons et renseigner les clients.
+        </fonction>
+        <lieu>Supermarché G20 – Rennes</lieu>
+        </boucle>
+        <boucle>  
+        <annee>2007 - 2009</annee>
+        <fonction>Agent de fabrication (1 an en intérim) – Effectuer un montage de produits agricoles sur ligne
+        </fonction>
+        <lieu>Entreprise Mailleux Acigné</lieu>
         </boucle>
     </experience>
     
@@ -76,7 +83,7 @@
     
     <langages> 
         <titrelang>Langages</titrelang> 
-        <lang>HTML / CSS / JS / PhP </lang> 
+        <langage>HTML / CSS / JS / PhP </langage> 
     </langages>
     
     <competence> <titrecomp>Compétences</titrecomp>
@@ -102,6 +109,11 @@
         <comp>∗ Maturité</comp>
         </boucle>
     </competence>
+
+    <langues>
+    <titrelang>langues : </titrelang>
+    <lang>Français (maternelle) et Anglais (notion)</lang>
+    </langues>
     
     <hobbies>Astronomie / Gamer / Cinéma et Lecture (BD)</hobbies>
     
