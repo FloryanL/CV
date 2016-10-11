@@ -23,11 +23,16 @@
                     <div class="adress">
                         <xsl:value-of select="cv/presentation/adresse"/>
                     </div>
+                    <div class="ville">
+                        <xsl:value-of select="cv/presentation/ville"/>
+                    </div>
                     <div class="tel">
                         <xsl:value-of select="cv/presentation/telephone"/>
                     </div>
                     <div class="email">
-                        <xsl:value-of select="cv/presentation/mail"/>
+                        <a href="mailto:{//mail}">
+                          <xsl:value-of select="cv/presentation/mail"/>
+                        </a>
                     </div>
                     <div class="age">
                         <xsl:value-of select="cv/presentation/age"/>

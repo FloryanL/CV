@@ -8,6 +8,7 @@
     <presentation>
         <nom>LOLLIVIER Florian</nom>
         <adresse>41 Square Charles Dullin</adresse>
+        <ville>35200 Rennes</ville>
         <telephone>06.78.48.17.77</telephone>
         <mail><html:a href="mailto:floryan.lollivier@gmail.com?">floryan.lollivier@gmail.com</html:a></mail>
         <age>27 ans</age>

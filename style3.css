@@ -44,6 +44,16 @@
     text-align: center;
     margin: 10px 15px;
 }
+.email a {
+    color: #d3d3d3;
+    text-shadow: 1px 1px darkorange;
+    text-decoration: none;
+}
+.email a:hover {
+    color: darkorange;
+    text-shadow: 1px 1px #d3d3d3;
+    text-decoration: none;
+}
 .titre {
     display: inline-block;
     vertical-align: middle;
@@ -240,7 +250,16 @@
         padding: 3vh 0;
         text-shadow: 1px 1px darkorange;
     }
-    
+    .email a {
+        color: #d3d3d3;
+        text-shadow: 1px 1px darkorange;
+        text-decoration: none;
+    }
+    .email a:hover {
+        color: darkorange;
+        text-shadow: 1px 1px #d3d3d3;
+        text-decoration: none;
+    }
     .titre {
         font-size: 55px;       
         margin: 12vh 0%;
