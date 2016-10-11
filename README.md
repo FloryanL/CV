@@ -1,4 +1,4 @@
 # CV
 ##Développeur Web/mobile junior
 
-![CV en PDF](CV.pdf)
+_**![CV en PDF](CV.pdf)**_
