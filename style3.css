@@ -338,6 +338,18 @@
         color: #BFBFBF;
         margin: 1vh 0vh 0 4vh;
     }
+    .niv1 {
+        color: dimgray;
+        margin: -2vh 45vh 0vh 20vh;
+        background-color: #02CEB3;
+        text-align: center;
+    }
+    .niv2 {
+        color: dimgray;
+        margin: -2vh 8vh 0vh 57vh;
+        background-color: #02CEB3;
+        text-align: center;
+    }
     .lang2 {
         color: #BFBFBF;
         margin: -2vh 0 0 40vh;

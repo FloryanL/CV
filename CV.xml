@@ -88,20 +88,20 @@
     <langages> 
         <titrelang>Langages</titrelang> 
         <boucle>
-        <lang1>HTML5</lang1>
-        <lang2>AngularJS</lang2>
+        <lang1>HTML5</lang1><niv1>70%</niv1>
+        <lang2>AngularJS</lang2><niv2>10%</niv2>
         </boucle>
         <boucle>
-        <lang1>CSS3</lang1>
-        <lang2>REACT</lang2>
+        <lang1>CSS3</lang1><niv1>70%</niv1>
+        <lang2>REACT</lang2><niv2>0%</niv2>
         </boucle>
         <boucle>
-        <lang1>Bootstrap</lang1>
-        <lang2>PhP</lang2>
+        <lang1>Bootstrap</lang1><niv1>55%</niv1>
+        <lang2>PhP</lang2><niv2>30%</niv2>
         </boucle>
         <boucle>
-        <lang1>Javascript</lang1>
-        <lang2>Wordpress</lang2>
+        <lang1>Javascript</lang1><niv1>35%</niv1>
+        <lang2>Wordpress</lang2><niv2>50%</niv2>
         </boucle>
     </langages>
     

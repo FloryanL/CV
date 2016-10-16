@@ -91,8 +91,14 @@
                             <div class="lang1">
                                 <xsl:value-of select="lang1"/>
                             </div>
+                            <div class="niv1">
+                                <xsl:value-of select="niv1"/>
+                            </div>
                             <div class="lang2">
                                 <xsl:value-of select="lang2"/>
+                            </div>
+                            <div class="niv2">
+                                <xsl:value-of select="niv2"/>
                             </div>
                         </xsl:for-each>
                 </div>
