@@ -34,9 +34,6 @@
                           <xsl:value-of select="cv/presentation/mail"/>
                         </a>
                     </div>
-                    <div class="age">
-                        <xsl:value-of select="cv/presentation/age"/>
-                    </div>
                     <div class="liensociale">
                         <a href="https://www.linkedin.com/in/floryan-lollivier-2a4248122">
                           <xsl:value-of select="cv/presentation/liens/lien1"/>
@@ -47,6 +44,9 @@
                         <a href="https://github.com/FloryanL">
                           <xsl:value-of select="cv/presentation/liens/lien3"/>
                         </a>
+                    </div>
+                    <div class="age">
+                        <xsl:value-of select="cv/presentation/age"/>
                     </div>
                 </div>
                 <div class="titre">

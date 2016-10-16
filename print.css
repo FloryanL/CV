@@ -25,6 +25,10 @@
         padding: 0.8vh 1vh;
     }
 
+    .liensociale {
+        display: none;
+    }
+
 /********** TITRE **********/
 
     .titre {
@@ -41,7 +45,7 @@
     .experience {
         width: 55%;
         height: auto;
-        margin: 15% 0% auto;
+        margin: 10% 0% auto;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0 0.8vh 1vh;
@@ -80,7 +84,7 @@
     .langages {
         width: 31.5%;
         height: auto;
-        margin: -42% 0% auto 65%; 
+        margin: -45% 0% auto 65%; 
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
@@ -117,7 +121,7 @@
     .hobbies {
         width: 96.5%;
         height: auto;
-        margin: 58% 0% auto;
+        margin: 55% 0% auto;
         text-align: center;
         border: 2px solid lightgrey;
         border-radius: 1%;
