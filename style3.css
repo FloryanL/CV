@@ -151,7 +151,7 @@
     font-size: 25px;
     margin-top: 2%;
 }
-.langages {
+/*.langages {
     order: 5;
     background-color: #333333;
     -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -176,7 +176,7 @@
 .lang {
     color: #BFBFBF;
     margin: -3vh 2vh 0vh 0vh;
-}
+}*/
 .competence {
     background-color: #333333;
     -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -313,7 +313,7 @@
     }
     .langages {
         order: 5;
-        width: 21vh;
+        width: 77.5vh;
         background-color: #333333;
         -moz-box-shadow: 5px 5px 25px 5px #9b9b9b;
         -webkit-box-shadow: 5px 5px 25px 5px #9b9b9b;
@@ -324,32 +324,36 @@
         border-radius: 20px;
         border: 8px groove darkorange;
         color: #02CEB3;
-        margin-top: -400px;
+        margin-top: -59.2vh;
         margin-left: 53%;
-        padding: 2vh 30vh;
+        padding-bottom: 2vh;
     }
     .titrelang {
         font-size: 20px;
-        margin: 0vh 0vh 0.5vh -26vh;
+        margin: 2vh 4vh;
         font-family: "Courier New";
         text-decoration-line: underline;
     }
-    .lang {
+    .lang1 {
         color: #BFBFBF;
-        margin: -3vh 0 0vh -12vh;
+        margin: 1vh 0vh 0 4vh;
+    }
+    .lang2 {
+        color: #BFBFBF;
+        margin: -2vh 0 0 40vh;
     }
     .competence {
         font-size: 16px;
         font-family: "Courier New";
-        padding-top: 3vh;
-        padding-bottom: inherit;
+        padding-top: 2vh;
+        padding-bottom: 1vh;
     }
     .titrecomp {
         font-size: 20px;
         padding-bottom: 1vh;
     }
     .comp {
-        padding: 1vh 0;
+        padding: 0 0 1vh 0;
         color: #BFBFBF;
     }
     .hobbies {

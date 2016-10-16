@@ -87,7 +87,22 @@
     
     <langages> 
         <titrelang>Langages</titrelang> 
-        <langage>HTML5 / CSS3 / Bootstrap / Javascript / AngularJS / REACT / PhP / Wordpress </langage> 
+        <boucle>
+        <lang1>HTML5</lang1>
+        <lang2>AngularJS</lang2>
+        </boucle>
+        <boucle>
+        <lang1>CSS3</lang1>
+        <lang2>REACT</lang2>
+        </boucle>
+        <boucle>
+        <lang1>Bootstrap</lang1>
+        <lang2>PhP</lang2>
+        </boucle>
+        <boucle>
+        <lang1>Javascript</lang1>
+        <lang2>Wordpress</lang2>
+        </boucle>
     </langages>
     
     <competence> <titrecomp>Compétences</titrecomp>

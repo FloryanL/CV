@@ -66,13 +66,14 @@
     .competence {
         width: 31.5%;
         height: auto;
-        margin: -55.5% 0% auto 65%;
+        margin: -81% 0% auto 65%;
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;     
     }
     .titrecomp {
         padding: 1vh 0;
+        text-decoration-line: underline;
     }
     .comp {
         color: darkslategray;
@@ -84,15 +85,19 @@
     .langages {
         width: 31.5%;
         height: auto;
-        margin: -45% 0% auto 65%; 
+        margin: -70% 0% auto 65%; 
         border: 2px solid lightgrey;
         border-radius: 1%;
         padding: 0.8vh;
     }
     .titrelang {
         padding: 0.5vh 0 ;
+        text-decoration-line: underline;
     }
-    .lang {
+    .lang1 {
+        padding: 0.5vh 0;
+    }
+    .lang2 {
         padding: 0.5vh 0;
     }
 
@@ -121,7 +126,7 @@
     .hobbies {
         width: 96.5%;
         height: auto;
-        margin: 55% 0% auto;
+        margin: 80% 0% auto;
         text-align: center;
         border: 2px solid lightgrey;
         border-radius: 1%;
