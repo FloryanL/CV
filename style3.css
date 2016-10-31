@@ -44,7 +44,7 @@
     width: 20%;
     line-height: 1.6;
     text-align: center;
-    margin: 2vh -6vh;
+    margin: 2vh -6vh 4vh;
     padding: 3vh 0;
 }
 .email a, .liensociale a {
@@ -85,13 +85,13 @@
     border-radius: 20px;
     border: 8px groove darkorange;
     color: #02CEB3;
-    font-size: 30px;
+    font-size: 2.5vh;
     font-family: "Agency FB";
     font-weight: bold;
     order: 3;
     width: 50%;
-    padding: 0 2% 2% 2%;
-    margin: 0 1% 1% 2%;
+    padding: 0 3vh 3vh 3vh;
+    margin: 0 1vh 1vh 2vh;
 }
 .annee {
     display: flex;
@@ -106,14 +106,14 @@
     flex-direction: column;
     font-family: "Cooper Black","Forte";
     color: whitesmoke;
-    font-size: 25px;
+    font-size: 2.4vh;
 }
 .lieu {
     float: right;
     font-family: "Courier New";
     color: dimgray;
-    font-size: 25px;
     margin-top: 1%;
+    font-size: 2.3vh;
 }
 .formation {
     background-color: #333333;
@@ -126,12 +126,12 @@
     border-radius: 20px;
     border: 8px groove darkorange;
     color: #02CEB3;
-    font-size: 25px;
+    font-size: 2.5vh;
     order: 6;
-    padding: 0 2% 1.5% 2%;
-    width: 35%;
-    margin-top: -24.5%;
-    margin-left: 56%;
+    padding: 0 4vh 2.5vh 4vh;
+    width: 68.5vh;
+    margin-top: -45.5vh;
+    margin-left: 115vh;
 }
 .formation .annee {
     display: flex;
@@ -146,14 +146,14 @@
     flex-direction: column;
     font-family: "Cooper Black","Forte";
     color: gray;
-    font-size: 25px;
+    font-size: 2.4vh;
 }
 .formation .lieu {
     float: right;
     font-family: "Courier New";
     color: dimgray;
-    font-size: 25px;
-    margin-top: 2%;
+    font-size: 2.3vh;
+    margin-top: 1.5vh;
 }
 .langages {
     order: 5;
@@ -167,19 +167,36 @@
     border-radius: 20px;
     border: 8px groove darkorange;
     color: #02CEB3;
-    margin-top: -62.2vh;
-    margin-left: 53%;
+    width: 63.5vh;
+    margin-top: -77.2vh;
+    margin-left: 115vh;
     padding: 2vh 6.5vh;
 }
 .titrelang {
-    font-size: 20px;
-    margin: 0vh 0vh 0vh -20vh;
-    font-family: "Courier New";
+    font-size: 25px;
+    margin: 0vh 0vh 0vh -2vh;
+    font-family: "Forte";
     text-decoration-line: underline;
 }
-.lang {
+.lang1 {
     color: #BFBFBF;
-    margin: -3vh 2vh 0vh 0vh;
+    margin: 1vh 0vh 0 0vh;
+}
+.niv1 {
+    color: dimgray;
+    margin: -2vh 33vh 0vh 16vh;
+    background-color: #02CEB3;
+    text-align: center;
+}
+.lang2 {
+    color: #BFBFBF;
+    margin: -2vh 0 0 40vh;
+}
+.niv2 {
+    color: dimgray;
+    margin: -2vh -1vh 0vh 54vh;
+    background-color: #02CEB3;
+    text-align: center;
 }
 .competence {
     background-color: #333333;
@@ -193,11 +210,11 @@
     border: 8px groove darkorange;
     color: #02CEB3;
     font-family: "Forte";
-    font-size: 25px;
+    font-size: 2vh;
     white-space: pre-line;
     order: 4;
     padding: 2%;
-    width: 35%;
+    width: 33%;
     margin-right: 2%;
 }
 .titrecomp {
@@ -220,12 +237,12 @@
     border: 8px groove darkorange;
     color: #02CEB3;
     font-family: "Forte";
-    font-size: 25px;
+    font-size: 2vh;
     order: 7;
-    padding: 2%;
-    width: 35%;
-    margin-top: -7.7%;
-    margin-left: 53%;
+    padding: 1.5vh 2vh;
+    width: 72.5vh;
+    margin-top: -9.5vh;
+    margin-left: 115vh;
 }
 
 
@@ -295,6 +312,7 @@
         margin-top: 2%;
     }
     .formation {
+        width: 60.5vh;
         margin-top: -297px;
         margin-left: 53%;
         padding-top: 2%;
@@ -314,13 +332,13 @@
     }
     .formation .lieu {
         font-size: 15px;
-        margin-top: -5%;
+        margin-top: 1vh;
     }
     .langages {
         width: 67.5vh;
         margin-top: -75.2vh;
         margin-left: 53%;
-        padding-bottom: 2vh;
+        padding: 2vh 0;
     }
     .titrelang {
         font-size: 20px;
@@ -349,6 +367,7 @@
         margin: -2vh 0 0 40vh;
     }
     .competence {
+        width: 60.5vh;
         font-size: 16px;
         font-family: "Courier New";
         padding-top: 2vh;
@@ -363,9 +382,10 @@
         color: #BFBFBF;
     }
     .hobbies {
+        width: 64.5vh;
         margin-top: -9.5vh;
         margin-left: 92vh;
         font-size: 16px;
-        padding: 2vh 4vh;
+        padding: 1.5vh 2vh;
     }
 }
